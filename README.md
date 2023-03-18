@@ -1,4 +1,4 @@
-# CITS1001-2022-Sem-2-Project-1-Wordle-Game
+# CITS1001-2022-Sem-2-Project-1--Wordle-Game
 
 Project was last updated on: 18 March 2023
 
