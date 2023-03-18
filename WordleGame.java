@@ -5,7 +5,7 @@
  * Note that the above game checks each guess is a valid word.
  * We DO NOT do this here! We let the user guess any sequence of 5 characters.
  *
- * @author (your name AND student number)
+ * @author (vyclu20)
  */
 public class WordleGame {
     private String secretWord;
