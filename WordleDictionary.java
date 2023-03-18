@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 /**
  * Manages a dictionary of words for use in Wordle.
  *
- * @author (your name AND student number)
+ * @author (vyclu20)
  */
 public class WordleDictionary
 {
